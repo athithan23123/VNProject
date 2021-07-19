@@ -1,0 +1,21 @@
+{
+    "uid": "A8320D7E4495F74EB3296FA400E703A729BB",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "New Folder",
+        "type": "game_script",
+        "content": "",
+        "order": 8,
+        "parentId": "ROOT",
+        "folder": true,
+        "scriptType": 0,
+        "decoded": true
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}
